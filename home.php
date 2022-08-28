@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+<!--  -->
 
 <head>
    <meta charset="UTF-8">
@@ -32,15 +33,15 @@
          <a href="package.php">package</a>
          <a href="book.php">book</a>
       </nav>
-      
+
       <div class="second-flex-item">
          <div>
             <div class="search-button"><i class="fa fa-search"></i></div>
          </div>
-         
+
          <div id="menu-btn" class="fas fa-bars"></div>
       </div>
-      
+
    </section>
 
    <!-- header section ends -->
